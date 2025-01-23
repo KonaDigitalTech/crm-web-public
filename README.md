@@ -1,1 +1,2 @@
-# crm-web-public
+# digitaledify-crm-webapp
+digital edify crm frontend code
